@@ -1,0 +1,33 @@
+body{
+    background: rgb(248, 237, 181);
+   font-family: "Darumadrop One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+h1{
+    font-size: 100px;
+    color:rgb(122,68,5);
+}
+h2,h3{
+    color:rgb(122,68,5);
+    font-size: 40px;
+}
+
+h4{
+    color:rgb(183, 8, 8);
+    font-size: 40px;
+}
+
+ul,ol,p{
+    color:rgb(82, 114, 57);
+    font-size: 25px;
+}
+ul,ol{
+    padding-left: 0;
+    list-style-position: inside;
+}
+.home{
+    font-size: 35px;
+    color:black
+}
